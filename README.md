@@ -138,6 +138,3 @@ This project demonstrates JWT-based authentication and CRUD operations using Spr
 
 Use a REST client like Postman, Insomnia, or curl to test the API endpoints. Remember to include the `Authorization` header with the `Bearer` token for protected endpoints.
 
-## License
-
-[MIT License](LICENSE) (If you have one)
